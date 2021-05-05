@@ -1,10 +1,11 @@
-### Hello World ! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height = -30px width =20px/>
+### Hello World ! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width =20px/>
 <hr>
 
 
 
 
 ![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anirudh906&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh906&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Anirudh906/Anirudh906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
