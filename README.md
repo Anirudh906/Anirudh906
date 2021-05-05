@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh906" />
 </a>
 <a href="LINK_TO_REPO">
-  <img src="https://i.pinimg.com/originals/e6/71/b0/e671b030905d5ca04572953a747facc7.gif" alt="Gif" width="450" height="150">
+  <img src="https://im6.ezgif.com/tmp/ezgif-6-66e90d90b1fd.gif" alt="Gif" width="450" height="150">
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
