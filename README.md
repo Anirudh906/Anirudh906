@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height=100px width =100px/>
 <!--
 **Anirudh906/Anirudh906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
