@@ -4,9 +4,9 @@
 
 
 
-<a href="https://github.com/Anirudh906/Anirudh906">
+&nbsp;<a href="https://github.com/Anirudh906/Anirudh906">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Anirudh906&show_icons=true&theme=radical" />
-</a> &nbsp; &nbsp;
+</a> &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;
 <a href="https://github.com/Anirudh906/Anirudh906">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh906" />
 </a>
