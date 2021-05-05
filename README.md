@@ -1,4 +1,4 @@
-### Hi there 👋  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" height=20px width =20px/>
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"  width =20px/>
 <!--
 **Anirudh906/Anirudh906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
