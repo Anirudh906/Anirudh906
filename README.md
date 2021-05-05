@@ -5,7 +5,7 @@
 
 
 <a href="https://github.com/Anirudh906/Anirudh906">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Anirudh906&show_icons=true&theme=radical" />
+  <img align="center" style= "position: relative; right: 100px" src="https://github-readme-stats.vercel.app/api?username=Anirudh906&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/Anirudh906/Anirudh906">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh906&layout=compact" />
