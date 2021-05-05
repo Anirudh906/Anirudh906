@@ -1,4 +1,4 @@
-### Hello World ! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width =20px/>
+### &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width =20px/>&nbsp; Hello World !
 <hr>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="">
