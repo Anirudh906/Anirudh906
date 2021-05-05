@@ -1,6 +1,4 @@
-### Hello World !
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"  width =20px/>
+### Hello World !   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif"  width =20px/>
 <!--
 **Anirudh906/Anirudh906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
