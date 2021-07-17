@@ -2,7 +2,7 @@
 <hr>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="">
-  <img src="1.gif" alt="Gif" width="200" height="150">
+ 
 </a>
 <hr>
 &nbsp;<a href="https://github.com/Anirudh906/Anirudh906">
