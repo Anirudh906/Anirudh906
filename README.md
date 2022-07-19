@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3><br>
 
 
-[![Linkedin: Anirudh](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudha-shivarkar-9a4818193/)](https://www.linkedin.com/in/anirudha-shivarkar-9a4818193/) &nbsp;
+[![Linkedin: Anirudh](https://img.shields.io/badge/-Anirudh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudha-shivarkar-9a4818193/)](https://www.linkedin.com/in/anirudha-shivarkar-9a4818193/) &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/Anirudh906?label=Follow&style=social) &nbsp;
 ![](https://visitor-badge.glitch.me/badge?page_id=Anirudh906.Anirudh906)
 
