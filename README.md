@@ -1,4 +1,4 @@
-### &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20" height="20" />&nbsp; Hello World! I am Anirudh.
+### &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20" height="20" />&nbsp; Hello World! 🚀 I am Anirudh. 😁
 <hr>
 <img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="150" align="right">
 <h3 align="left"> About Me:</h3>
