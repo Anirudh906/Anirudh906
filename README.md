@@ -1,6 +1,6 @@
 ### &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20" height="20" />&nbsp; Hello World! I am Anirudh.
 <hr>
-
+<img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="150" align="right">
 <h3 align="left"> About Me:</h3>
 
 
@@ -19,6 +19,14 @@
 <a href="https://github.com/Anirudh906/Anirudh906">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh906" />
 </a>
+
+<hr>
+<h3 align="left">Connect with me:</h3><br>
+
+
+[![Linkedin: Anirudh](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudha-shivarkar-9a4818193/)](https://www.linkedin.com/in/anirudha-shivarkar-9a4818193/) &nbsp;
+![GitHub followers](https://img.shields.io/github/followers/Anirudh906?label=Follow&style=social) &nbsp;
+![](https://visitor-badge.glitch.me/badge?page_id=Anirudh906.Anirudh906)
 
 <hr>
 <h3 align="left">Languages and Tools:</h3><br>
