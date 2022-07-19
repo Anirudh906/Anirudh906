@@ -4,7 +4,7 @@
 <h3 align="left"> About Me:</h3>
 
 
-  - 🎓 Prefinal year @NIT Raipur
+  - 🎓 Final year @NIT Raipur
   - 🕸️ Web developer (MERN stack)
   - 😄 Pronouns: He / Him
   - ⚡ Fun fact: Heaviest object in the universe: node_modules.
