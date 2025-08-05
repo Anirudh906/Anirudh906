@@ -4,12 +4,6 @@
 <h3 align="left"> About Me:</h3>
 
 
-  - 🎓 Final year @NIT Raipur
-  - 🕸️ Web developer (MERN stack)
-  - 😄 Pronouns: He / Him
-  - ⚡ Fun fact: Heaviest object in the universe: node_modules.
-
-
 <hr>
 &nbsp;<a href="https://github.com/Anirudh906/Anirudh906">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Anirudh906&show_icons=true&theme=radical" />
