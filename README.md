@@ -1,10 +1,6 @@
 ### &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20" height="20" />&nbsp; Hello World! 🚀 I am Anirudh. 😁
 <hr>
-<img src="https://c.tenor.com/_DOBjnGspYAAAAAC/code-coding.gif" width="150" align="right">
-<h3 align="left"> About Me:</h3>
 
-
-<hr>
 &nbsp;<a href="https://github.com/Anirudh906/Anirudh906">
   <img align="center"  src="https://github-readme-stats.vercel.app/api?username=Anirudh906&show_icons=true&theme=radical" />
 </a> &nbsp; &nbsp;&nbsp; 
